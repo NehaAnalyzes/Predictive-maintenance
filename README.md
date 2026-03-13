@@ -2,11 +2,6 @@
 
 > End-to-end machine failure prediction system using IoT sensor data — built with Random Forest, deployed via FastAPI + Streamlit.
 
-![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.110-green?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.33-red?style=flat-square)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1.4-orange?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 
 ---
 
